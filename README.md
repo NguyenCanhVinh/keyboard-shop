@@ -1,11 +1,11 @@
 # Website bàn phím cơ máy tính.
-+ Công nghệ sử dụng:
-       + Font end: html, css, js, Boostrap.
-       + CSDL: SQL server
-       + Spring boot
-       + Spring data JPA
-       +Phân quyền , login ,Spring sercurity
-       + Thymeleaf...
+# Công nghệ sử dụng:
++ Font end: html, css, js, Boostrap.
++ CSDL: SQL server
++ Spring boot
++ Spring data JPA
++ Phân quyền , login ,Spring sercurity
++ Thymeleaf...
 +Hình ảnh demo :
        - Giao diện trang bán hàng 
        ![z3206118151593_25868adb086e589b6465ce45ef23b025](https://user-images.githubusercontent.com/67863427/155327758-86b89605-2bf2-4fd0-8ff2-1706b1b3c51c.jpg)
