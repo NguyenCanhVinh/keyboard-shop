@@ -1,5 +1,5 @@
 # Website bàn phím cơ máy tính.
-Công nghệ sử dụng:
++ Công nghệ sử dụng:
        - Font end: html, css, js, Boostrap.
        - CSDL: SQL server
        - Spring boot
